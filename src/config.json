@@ -1,9 +1,9 @@
 {
   "title": "LSCCMEMBRSHIP",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "description": "愛酒クリームに関係する飲食店酒造のMAP",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e",
+  "logo_image_url": "\nhttps://www.moririn130.com/blank-3",
+  "background_image_url": "back | LoveSakeCremeClub (moririn130.com)",
+  "primary_color": "#FF0000\t",
   "orderby": "distance"
 }
