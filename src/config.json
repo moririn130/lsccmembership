@@ -1,9 +1,9 @@
 {
   "title": "LSCCMEMBRSHIP",
-  "description": "愛酒クリームに関係する飲食店酒造のMAP",
+  "description": "愛酒クリーム関連MAP",
   "form_url": "",
-  "logo_image_url": "\nhttps://www.moririn130.com/blank-3",
-  "background_image_url": "back | LoveSakeCremeClub (moririn130.com)",
+  "logo_image_url": "https://moririn130.github.io/lsccmembership/202210lswhite.png",
+  "background_image_url": "https://moririn130.github.io/lsccmembership/202210ls.png",
   "primary_color": "#FF0000\t",
   "orderby": "distance"
 }
