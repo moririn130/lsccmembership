@@ -1,7 +1,54 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J83",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "",
+      "愛酒クリーム酒場",
+      "https://moririn130.github.io/lsccmembership/N5297281.jpg",
+      "35.907878",
+      "139.618836",
+      "一魚一縁たむら",
+      "愛酒クリーム酒場の一魚一縁たむらです",
+      "ichigo_ichie_tamura",
+      "",
+      "https://www.instagram.com/ichigo_ichie_tamura/"
+    ],
+    [
+      "",
+      "愛酒クリーム酒場",
+      "https://moririn130.github.io/lsccmembership/650x450_17172502.jpg",
+      "35.62776",
+      "139.726428",
+      "チャコールグリル山武商店",
+      "愛酒クリーム酒場のチャコールグリル山武商店です",
+      "charcoalgrill_yamatake",
+      "yamatake0311",
+      "五反田　チャコールグリル山武商店(@charcoalgrill_yamatake) • Instagram写真と動画"
+    ],
+    [
+      "",
+      "愛酒クリーム酒場",
+      "https://moririn130.github.io/lsccmembership/76aa784d.jpg",
+      "35.715371",
+      "139.708283",
+      "炙りのどまん中高田馬場",
+      "愛酒クリーム酒場の炙りのどまん中です",
+      "38_domannaka_aburi",
+      "37_domannaka",
+      "魚と旬菜と日本酒　炙りのどまん中 - 高田馬場/居酒屋/ネット予約可 | 食べログ (tabelog.com)"
+    ]
+  ]
 }
